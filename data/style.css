@@ -1,0 +1,3 @@
+:is(img, svg, video).responsive.bar{
+    block-size: 4rem;
+}
